@@ -1,0 +1,40 @@
+body, html {
+    background: url(https://img.freepik.com/free-vector/white-gray-geometric-pattern-background-vector_53876-136511.jpg?w=1480&t=st=1686560028~exp=1686560628~hmac=92cfec9da923a5183c3c530dc8cf1bcf070cb3c8ae1b2367283622a20eb27ce2) no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100%;
+    height: 100%;
+}
+
+
+h3 {
+    color: white;
+}
+
+.div-contact {
+    margin-top: 10%;
+    height: 100%;
+    color: black;
+    background-color: #ADAAAB;
+    border-radius: 25px;
+    padding: 15px;
+    width: 35%;
+}
+
+.btn {
+    background-color: grey;
+    border-radius: 5px;
+    color: white;
+    width: 25%;
+}
+
+.Alert-img {
+    width: 10%;
+}
+
+.alert {
+    margin-top: 20px;
+    background-color: grey;
+    border-radius: 15px;
+    color: white;
+    display: inline-block;
+}
